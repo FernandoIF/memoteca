@@ -1,0 +1,60 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio!",
+      "autoria": "Lucas",
+      "modelo": "modelo1",
+      "favorito": true
+    },
+    {
+      "id": 3,
+      "conteudo": "Que bom que você veio!",
+      "autoria": "Angular",
+      "modelo": "modelo1",
+      "favorito": true
+    },
+    {
+      "id": 4,
+      "conteudo": "Aprendendo Angular 14",
+      "autoria": "Fernando",
+      "modelo": "modelo3",
+      "favorito": true
+    },
+    {
+      "conteudo": "Aprendendo Angular 17",
+      "autoria": "Angular",
+      "modelo": "modelo1",
+      "id": 6,
+      "favorito": false
+    },
+    {
+      "conteudo": "Teste",
+      "autoria": "Gabi",
+      "modelo": "modelo1",
+      "id": 7,
+      "favorito": false
+    },
+    {
+      "conteudo": "Aprendendo Angular 17",
+      "autoria": "Lucas",
+      "modelo": "modelo1",
+      "id": 8,
+      "favorito": false
+    },
+    {
+      "conteudo": "Aprendendo Angular 17",
+      "autoria": "Angular",
+      "modelo": "modelo1",
+      "id": 9,
+      "favorito": false
+    },
+    {
+      "conteudo": "Aprendendo Angular 17",
+      "autoria": "Angular",
+      "modelo": "modelo2",
+      "id": 10,
+      "favorito": false
+    }
+  ]
+}
